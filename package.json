@@ -1,0 +1,21 @@
+{
+  "name": "codility-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start1": "node task1.js",
+    "start2": "node task2.js",
+    "start3": "node task3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maorRoz/codility-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maorRoz/codility-node/issues"
+  },
+  "homepage": "https://github.com/maorRoz/codility-node#readme"
+}
